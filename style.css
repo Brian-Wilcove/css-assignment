@@ -53,7 +53,10 @@ Task 4:  Targeting Elements by Descendant Selectors
   hyperlinks)
 */
 
-
+li a {
+  text-decoration: none;
+  color:ghostwhite;
+}
 
 /* End of Section 1: Selectors in CSS */
 
