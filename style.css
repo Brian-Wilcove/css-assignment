@@ -40,6 +40,10 @@ Task 3:  Targeting Elements by ID + Margin
 - Finally, add 15px of margin to the bottom of that element. Note that it pushes the other inputs down
 */
 
+#name{
+  border-radius: 2em;
+  margin-bottom: 15px;
+}
 
 /*
 Task 4:  Targeting Elements by Descendant Selectors
