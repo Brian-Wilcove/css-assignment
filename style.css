@@ -68,13 +68,22 @@ li a {
 - Give it 5px of padding as well to space them out
 */
 
-
+li.favorite-food{
+  display: inline-block;
+  padding: 5px;
+}
 
 /* Task 2: position: relative
 - Change the positioning of the .hero class to "relative" 
 - Play around with its top, right, bottom, or left properties to position it wherever you want
 - Give it text-align: center to make the text centered on your page
 */
+
+.hero{
+  position: relative;
+  top: 20px;
+  text-align: center;
+}
 
 
 /* Task 3: Display Grid
