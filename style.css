@@ -92,6 +92,11 @@ li.favorite-food{
 - Create a gap of 20px using the 'gap' property
 */
 
+.features{
+  display:grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 20px
+}
 
 /* Task 4: Position Fixed 
 - Change the positioning of the footer section to "fixed" 
