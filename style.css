@@ -95,7 +95,7 @@ li.favorite-food{
 .features{
   display:grid;
   grid-template-columns: 1fr 1fr 1fr;
-  gap: 20px
+  gap: 20px;
 }
 
 /* Task 4: Position Fixed 
@@ -104,6 +104,11 @@ li.favorite-food{
 - Note that wherever you scroll on the page, it remains fixed on your viewport! 
 */
 
+footer{
+  position: fixed;
+  bottom: 0px;
+  left: 150px;
+}
 
 /* End of Section 2: Display and Positioning in CSS */
  
