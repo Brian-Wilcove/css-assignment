@@ -28,7 +28,10 @@ Task 2:  Targeting Elements by Class + Padding
 - Give it 20px of padding - note that the background color 'grows' around the text
 */
 
-
+.navigation{
+  background-color: coral;
+  padding: 20px;
+}
 
 /*
 Task 3:  Targeting Elements by ID + Margin
