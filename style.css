@@ -5,6 +5,11 @@
   font-size: 2em;
 }
 
+p{
+  font-size: 16px;
+  border: black solid 1px;
+}
+
 /* Section 1: Selectors in CSS + Box Model */
 
 
