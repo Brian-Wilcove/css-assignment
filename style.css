@@ -52,7 +52,7 @@ Task 4:  Targeting Elements by Descendant Selectors
   text-decoration: none and a new color of your choice (this will make them look less like
   hyperlinks)
 */
-
+/* TODO: good try but they wanted the to specify only a tags in a li inside the nav -4 */
 li a {
   text-decoration: none;
   color:ghostwhite;
@@ -68,6 +68,7 @@ li a {
 - Give it 5px of padding as well to space them out
 */
 
+/* TODO: you weren;t supposed to change the class from .inline-block to .favorite-food  -4 */
 li.favorite-food{
   display: inline-block;
   padding: 5px;
