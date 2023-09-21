@@ -68,7 +68,8 @@ li a {
 - Give it 5px of padding as well to space them out
 */
 
-/* TODO: you weren;t supposed to change the class from .inline-block to .favorite-food  -4 */
+/* TODO: you weren't supposed to change the class from .inline-block to .favorite-food  -4 */
+/* TODO: this is correct for the updated instructions +4 */
 li.favorite-food{
   display: inline-block;
   padding: 5px;
